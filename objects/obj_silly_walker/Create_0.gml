@@ -1,4 +1,4 @@
-window_w = window_get_width();
-window_h = window_get_height();
-window_x = window_get_x();
-window_y = window_get_y();
+base_width = room_width;
+base_height = room_height;
+width = base_width;
+height = base_height;

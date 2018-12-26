@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "1573f14b-8225-46fd-b642-3564bba4fa1d",
+            "Value": {
+                "id": "db9392c0-8283-4b6f-b591-b44c950488ca",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scale_canvas\/scale_canvas.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1aa08f48-68fa-4759-affb-e600ff837a48",
             "Value": {
                 "id": "54509e74-b0b5-4ba9-8334-c542a6860f90",
@@ -534,7 +553,7 @@
         }
     ],
     "script_order": [
-        
+        "1573f14b-8225-46fd-b642-3564bba4fa1d"
     ],
     "tutorial": ""
 }
